@@ -10,6 +10,12 @@ const styles = StyleSheet.create({
     fontSize: 20,
 
   },
+
+  text:{
+    color: 'black',
+    fontSize: 20,
+
+  },
 });
 
 export default styles;
