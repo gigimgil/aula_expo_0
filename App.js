@@ -21,5 +21,6 @@ const styles = StyleSheet.create({
     backgroundColor: 'violet',
     alignItems: 'center',
     justifyContent: 'center',
+    padding:18,
   },
 });
