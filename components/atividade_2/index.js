@@ -11,7 +11,11 @@ function Exemplo2 () {
 
             <Mensagem cantor='Lana del rey' musica='Ride'/>
             <Mensagem cantor='Melanie Martinez' musica='Carrousel'/>
-            <Mensagem cantor='Giugui'musica='' />
+            <Mensagem cantor='Mitski'musica='liquid smooth' />
+            <Mensagem cantor='Ariana Grande'musica='God is a woman' />
+            <Mensagem cantor='Tim maia'musica='Eu amo voce' />
+            <Mensagem cantor='Taylor swift'musica='lover' />
+            <Mensagem cantor='Olivia rodrigo'musica='brutal' />
         </View>
     );
 }
