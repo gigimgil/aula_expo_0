@@ -20,11 +20,13 @@ const styles = StyleSheet.create({
         fontSize:25,
         margin:10,
         color: 'violet',
+    
     },
     viewmensagem: {
         borderWidth:2,
         borderColor:'violet',
         borderRadius:20,
+        
     }
 });
 

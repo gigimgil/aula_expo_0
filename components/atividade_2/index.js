@@ -14,8 +14,8 @@ function Exemplo2 () {
             <Mensagem cantor='Mitski'musica='liquid smooth' />
             <Mensagem cantor='Ariana Grande'musica='God is a woman' />
             <Mensagem cantor='Tim maia'musica='Eu amo voce' />
-            <Mensagem cantor='Taylor swift'musica='lover' />
-            <Mensagem cantor='Olivia rodrigo'musica='brutal' />
+            <Mensagem cantor='Taylor swift'musica='So Long, London (the new albun the  tortured poets department)' />
+            <Mensagem cantor='Olivia rodrigo'musica='so american' />
         </View>
     );
 }
