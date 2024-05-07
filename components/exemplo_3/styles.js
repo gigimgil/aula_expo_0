@@ -19,8 +19,16 @@ botao:{
     padding:10,
     width:'80%',
     borderRadius:20,
-    alignItems:center,
+    alignItems:'center',
+    borderColor:'violet',
+},
+txtBotao: {
+    fontSize:25,
+    color: 'violet',
+},
+botaoPress: {
+    backgroundColor:'purple',
 },
 
-})
+});
 export default styles;
