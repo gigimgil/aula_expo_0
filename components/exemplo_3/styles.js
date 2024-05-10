@@ -29,6 +29,12 @@ txtBotao: {
 botaoPress: {
     backgroundColor:'purple',
 },
+txtNumero:{
+    fontSize:35,
+    color: 'violet',
+    marginVertical:10,
+
+},
 
 });
 export default styles;
