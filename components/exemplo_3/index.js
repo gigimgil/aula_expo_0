@@ -7,7 +7,7 @@ export default function Exemplo_3() {
     const [numero,setNumero] =useState(0); 
 
     function incremento () {
-        setNumero(numero+1);
+        setNumero(numero+100000000000);
     }
 
     return (
