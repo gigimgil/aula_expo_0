@@ -22,9 +22,9 @@ export default function Atividade_3() {
         <View style={styles.container}>
             <Text style={styles.titulo}>Atividade 3</Text>
 
+            <View style={styles.container2}>
 
-
-            <Text style={styles.txtNumero}>{numero}</Text>
+          
 
             <Pressable
                 onPress={() =>incremento()}
@@ -37,6 +37,8 @@ export default function Atividade_3() {
                 <Text style={styles.txtBotao}>+ 1</Text>
             </Pressable>
 
+            <Text style={styles.txtNumero}>{numero}</Text>
+            
             <Pressable
                 onPress={() =>menos()}
                 style={({ pressed }) => pressed ?
@@ -47,7 +49,7 @@ export default function Atividade_3() {
 
                 <Text style={styles.txtBotao}>- 1</Text>
             </Pressable>
-
+            </View>
             <Pressable
                 onPress={() =>zerar()}
                 style={({ pressed }) => pressed ?
