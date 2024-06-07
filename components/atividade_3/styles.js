@@ -14,6 +14,7 @@ container2: {
   display: 'flex',
   flexDirection:'row',
   width: '15%',
+  alignItems:'center',
 },
 
 titulo:{
@@ -21,31 +22,36 @@ titulo:{
     fontWeight:'bold',
     marginVertical:20,
     color: 'violet',
+    alignItems:'center',
 },
 
 botao:{
     borderWidth:3,
     padding:10,
-    width:'40%',
+    width:100,
     borderRadius:20,
     alignItems:'center',
     borderColor:'violet',
     margin:10,
+    height:65,
 },
 
 
 txtBotao: {
     fontSize:25,
     color: 'violet',
+    alignItems:'center',
 },
 
 botaoPress: {
     backgroundColor:'purple',
+    alignItems:'center',
 },
 
 txtNumero:{
-    fontSize:35,
+    fontSize:55,
     color: 'violet',
+    alignItems:'center',
     marginVertical:10,
 
 },
