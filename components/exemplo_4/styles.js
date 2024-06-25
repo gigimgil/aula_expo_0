@@ -25,8 +25,8 @@ const styles = StyleSheet.create({
         borderWidth:2,
         padding:5,
         borderRadius:20,
-    }
-    titulo:{
+    },
+    texto:{
         fontSize:30,
         fontWeight:'bold',
         marginVertical:20,
