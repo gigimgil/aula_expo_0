@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         marginVertical:0,
         color: 'violet',
         width:'80%',
-        borderColor:'blue',
+        borderColor:'violet',
         borderWidth:2,
         padding:5,
         borderRadius:20,
@@ -29,7 +29,8 @@ const styles = StyleSheet.create({
     texto:{
         fontSize:30,
         fontWeight:'bold',
-        marginVertical:20,
+        marginVertical:5,
+        width:'80%',
         color: 'violet',
     },
 

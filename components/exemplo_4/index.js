@@ -11,7 +11,7 @@ export default function Exemplo_4() {
              placeholder='Digite seu nome...'
              style={styles.input}
              />
-            <Text>Nome digitado: </Text>
+            <Text       style={styles.texto}>Nome digitado: </Text>
         </View>
     );
 }
